@@ -24,7 +24,7 @@ python makeTable.py                             # Run the script using python 3
 ```
 
 ## Inputs
-- Schedule Requirements - This file should contain information on: room types, classrooms, courses and timings (refer to [test_inputs](timetable-maker/test_inputs/) for some samples).
+- Schedule Requirements - This file should contain information on: room types, classrooms, courses and timings (refer to [test_inputs](test_inputs/) for some samples).
 
 ## Outputs
 ```
