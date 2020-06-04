@@ -15,7 +15,7 @@ A Python program to solve the lecture scheduling problem. It encodes the input i
 └── makeTable.py
 ```
 
-## Frameworks
+## Frameworks/Tools
 - [Z3 Theorem Prover](https://github.com/Z3Prover/z3.git)
 
 ## Instructions to Run
