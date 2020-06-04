@@ -4,7 +4,7 @@ NOTE: Created in Python 3.
 
 ## Objective
 
-A Python program to solve the lecture scheduling problem. It encodes the input into a propositional logic formula such that there is a schedule if and only if the formula is satisfiable. The [Z3 Theorem Prover](https://github.com/Z3Prover/z3.git) is further used to check whether a valid satisfying assignment exists.
+A Python program to solve the lecture scheduling problem. It encodes the input into a propositional logic formula such that there is a schedule if and only if the formula is satisfiable. The [Z3 theorem prover](https://github.com/Z3Prover/z3.git) is further used to check whether a valid satisfying assignment exists.
 
 ## About the Repository
 ```
