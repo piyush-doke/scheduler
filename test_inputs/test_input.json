@@ -1,0 +1,25 @@
+{
+	"Room Types": ["small", "big", "chemistry", "physics"],
+	"Institute time": [
+		[8.30, 12.30],
+		[14.00, 17.00]
+	],
+	"Classrooms": [
+		["T1", "small"],
+		["LH1", "big"],
+		["physics lab", "physics"],
+		["T2", "small"],
+		["LH2", "big"]
+	],
+	"Courses": [
+		["cs201", "small", [1.5, 1.5],
+			["Amal", "Clint"], 2
+		],
+		["cs25", "big", [1, 1, 1],
+			["Sharad"], 3
+		],
+		["cs228", "small", [1, 1, 1],
+			["Sreejith"], 3
+		]
+	]
+}
