@@ -22,7 +22,7 @@ A Python program to solve the lecture scheduling problem. It encodes the input i
 
 ### How to Execute
 ```
-python makeTable.py                             # Run the script using python 3
+python makeTable.py                             # Run the script using Python 3
 ```
 
 ### Inputs
