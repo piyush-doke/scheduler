@@ -1,4 +1,4 @@
-# Timetable Maker
+# Scheduler
 
 NOTE: Created in Python 3.
 
