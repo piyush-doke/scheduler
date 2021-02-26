@@ -11,7 +11,7 @@ A Python program to solve the lecture scheduling problem. It encodes the input i
 
 ## Repository Tree
 ```
-./timetable-maker
+./scheduler
 ├── test_inputs                                 # Contains sample inputs to test the code with
 │   └── ...
 ├── README.md
